@@ -1,1 +1,1 @@
-The answers to the sections of exercises 5 and 8 in the assignment are located at the bottom of the files Answers5.ipynb and Answers8.ipynb. In addition, we have sent only the code for each exercise separately in the files CodeExe5.py and CodeExe8.py.
+
